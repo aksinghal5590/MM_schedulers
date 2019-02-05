@@ -1,0 +1,16 @@
+workers: 272
+workers: 272
+size:2048
+size:2048
+time interval of mmIJK : 182s or chrono sec: 182.435 s 
+size:2048
+time interval of mmIKJ : 12s or chrono sec: 11.7338 s 
+size:2048
+time interval of mmJIK : 181s or chrono sec: 181.117 s 
+size:2048
+time interval of mmJKI : 188s or chrono sec: 187.689 s 
+size:2048
+time interval of mmKIJ : 12s or chrono sec: 11.9763 s 
+size:2048
+time interval of mmKJI : 173s or chrono sec: 173.404 s 
+end_______

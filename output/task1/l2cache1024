@@ -1,0 +1,48 @@
+workers: 272
+workers: 272
+size:1024
+size:1024
+add L2 cache
+1076090131 0 
+time interval of mmIJK : 188s or chrono sec: 187.943 s 
+end_______
+workers: 272
+workers: 272
+size:1024
+size:1024
+add L2 cache
+1187673 0 
+time interval of mmIKJ : 43s or chrono sec: 42.735 s 
+end_______
+workers: 272
+workers: 272
+size:1024
+size:1024
+add L2 cache
+1077742905 0 
+time interval of mmJIK : 186s or chrono sec: 185.732 s 
+end_______
+workers: 272
+workers: 272
+size:1024
+size:1024
+add L2 cache
+2149882287 0 
+time interval of mmJKI : 197s or chrono sec: 196.881 s 
+end_______
+workers: 272
+workers: 272
+size:1024
+size:1024
+add L2 cache
+2131097 0 
+time interval of mmKIJ : 37s or chrono sec: 36.9557 s 
+end_______
+workers: 272
+workers: 272
+size:1024
+size:1024
+add L2 cache
+2146735486 0 
+time interval of mmKJI : 197s or chrono sec: 197.042 s 
+end_______

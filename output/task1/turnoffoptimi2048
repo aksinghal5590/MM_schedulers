@@ -1,0 +1,9 @@
+workers: 272
+workers: 272
+size:2048
+size:2048
+time interval of mmIJK : 1479s or chrono sec: 1479.21 s 
+size:2048
+time interval of mmIKJ : 328s or chrono sec: 327.745 s 
+size:2048
+slurmstepd: error: *** JOB 935397 ON c455-043 CANCELLED AT 2018-03-13T18:12:44 DUE TO TIME LIMIT ***

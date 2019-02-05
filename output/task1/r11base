@@ -1,0 +1,63 @@
+size:2048
+size:2048
+base :2
+time interval of mmParRec : 7s or chrono sec: 7.04443 s 
+
+________________
+
+size:2048
+size:2048
+base :4
+time interval of mmParRec : 5s or chrono sec: 4.23186 s 
+
+________________
+
+size:2048
+size:2048
+base :8
+time interval of mmParRec : 4s or chrono sec: 3.37648 s 
+
+________________
+
+size:2048
+size:2048
+base :16
+time interval of mmParRec : 3s or chrono sec: 3.36565 s 
+
+________________
+
+size:2048
+size:2048
+base :32
+time interval of mmParRec : 3s or chrono sec: 3.30632 s 
+
+________________
+
+size:2048
+size:2048
+base :64
+time interval of mmParRec : 3s or chrono sec: 3.30192 s 
+
+________________
+
+size:2048
+size:2048
+base :128
+time interval of mmParRec : 3s or chrono sec: 3.50374 s 
+
+________________
+
+size:2048
+size:2048
+base :256
+time interval of mmParRec : 10s or chrono sec: 9.95105 s 
+
+________________
+
+size:2048
+size:2048
+base :512
+time interval of mmParRec : 26s or chrono sec: 26.5131 s 
+
+________________
+

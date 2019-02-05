@@ -1,0 +1,39 @@
+CC=icc
+CFLAGS=-std=c++11 -O2 -pthread -I${TACC_PAPI_INC} -Iinclude
+
+.PHONY: all clean
+
+all: clean  cshare cshare_p drsteal drsteal_p drsteal_mod drshare drshare_p drshare_mod
+
+cshare:
+	$(CC) $(CFLAGS) -o bin/cshare src/CSchedulerMain.cpp -ltbb
+
+cshare_p:
+	$(CC) $(CFLAGS) -o bin/cshare_p src/CSchedulerMainPAPI.cpp -ltbb ${TACC_PAPI_LIB}/libpapi.a
+
+drsteal:
+	$(CC) $(CFLAGS) -o bin/drsteal src/DRStealSchedulerMain.cpp -ltbb
+
+drsteal_p:
+	$(CC) $(CFLAGS) -o bin/drsteal_p src/DRStealSchedulerMainPAPI.cpp -ltbb ${TACC_PAPI_LIB}/libpapi.a
+
+drshare:
+	$(CC) $(CFLAGS) -o bin/drshare src/DRShareSchedulerMain.cpp -ltbb
+
+drshare_p:
+	$(CC) $(CFLAGS) -o bin/drshare_p src/DRShareSchedulerMainPAPI.cpp -ltbb ${TACC_PAPI_LIB}/libpapi.a
+
+drsteal_mod:
+	$(CC) $(CFLAGS) -o bin/drsteal_mod src/DRStealModSchedulerMain.cpp -ltbb
+
+drshare_mod:
+	$(CC) $(CFLAGS) -o bin/drshare_mod src/DRShareModSchedulerMain.cpp -ltbb
+
+
+mmprogram: src/mm.cpp src/mmAlgorithms.cpp
+	$(CC) $(CFLAGS) -o bin/mmprogram src/mm.cpp src/mmAlgorithms.cpp  ${TACC_PAPI_LIB}/libpapi.a
+
+clean:
+	rm -rf bin/
+	mkdir -p bin
+

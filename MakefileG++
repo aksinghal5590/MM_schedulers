@@ -1,0 +1,12 @@
+CC = g++
+CFLAGS = -std=c++11  -fcilkplus -O0 
+LIBS = -lstdc++ -lm -lpapi
+INCLUDES = -Iinclude
+MAIN = mmprogram
+all: $(MAIN)
+
+$(MAIN): src/mm.cpp src/mmAlgorithms.cpp
+	$(CC) $(CFLAGS) $(INCLUDES) -o bin/$(MAIN) src/mm.cpp src/mmAlgorithms.cpp $(LIBS)
+
+
+	

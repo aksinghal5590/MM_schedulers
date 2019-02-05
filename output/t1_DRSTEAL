@@ -1,0 +1,2 @@
+Time taken using DR-Steal scheduler with n=16392, base=512 and thread_count=1 : 1443.64 s 
+slurmstepd: error: *** JOB 990801 ON c506-001 CANCELLED AT 2018-03-24T23:14:00 DUE TO TIME LIMIT ***

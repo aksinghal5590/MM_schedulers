@@ -1,0 +1,63 @@
+size:1024
+size:1024
+base :2
+time interval of mmParRec : 2s or chrono sec: 1.31676 s 
+
+________________
+
+size:1024
+size:1024
+base :4
+time interval of mmParRec : 1s or chrono sec: 1.06542 s 
+
+________________
+
+size:1024
+size:1024
+base :8
+time interval of mmParRec : 1s or chrono sec: 0.977842 s 
+
+________________
+
+size:1024
+size:1024
+base :16
+time interval of mmParRec : 0s or chrono sec: 0.846321 s 
+
+________________
+
+size:1024
+size:1024
+base :32
+time interval of mmParRec : 0s or chrono sec: 0.847911 s 
+
+________________
+
+size:1024
+size:1024
+base :64
+time interval of mmParRec : 1s or chrono sec: 0.904171 s 
+
+________________
+
+size:1024
+size:1024
+base :128
+time interval of mmParRec : 1s or chrono sec: 1.55189 s 
+
+________________
+
+size:1024
+size:1024
+base :256
+time interval of mmParRec : 3s or chrono sec: 3.61913 s 
+
+________________
+
+size:1024
+size:1024
+base :512
+time interval of mmParRec : 13s or chrono sec: 12.3655 s 
+
+________________
+

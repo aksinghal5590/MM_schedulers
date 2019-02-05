@@ -1,0 +1,682 @@
+workers: 272
+workers: 272
+k:	4
+size:16
+add L2 cache
+32 0 
+time interval of mmIKJ : 0s or chrono sec: 0.0606145 s 
+________________
+
+size:16
+add L2 cache
+4431 0 
+time interval of mmIKJ1 : 0s or chrono sec: 0.158858 s 
+________________
+
+size:16
+add L2 cache
+244 0 
+time interval of mmIKJ2 : 0s or chrono sec: 0.00187682 s 
+________________
+
+size:16
+add L2 cache
+1671 0 
+time interval of mmIKJ3 : 0s or chrono sec: 0.00850118 s 
+________________
+
+size:16
+add L2 cache
+364 0 
+time interval of mmIKJ4 : 0s or chrono sec: 0.00514551 s 
+________________
+
+size:16
+add L2 cache
+480 0 
+time interval of mmIKJ5 : 0s or chrono sec: 0.00398823 s 
+________________
+
+size:16
+add L2 cache
+2232 0 
+time interval of mmIKJ6 : 0s or chrono sec: 0.0105744 s 
+________________
+
+size:16
+add L2 cache
+633 0 
+time interval of mmIKJ7 : 0s or chrono sec: 0.0093277 s 
+________________
+
+size:16
+add L2 cache
+29 0 
+time interval of mmKIJ : 0s or chrono sec: 0.00123032 s 
+________________
+
+size:16
+add L2 cache
+612 0 
+time interval of mmKIJ1 : 0s or chrono sec: 0.00141564 s 
+________________
+
+size:16
+add L2 cache
+748 0 
+time interval of mmKIJ2 : 0s or chrono sec: 0.00641704 s 
+________________
+
+size:16
+add L2 cache
+3006 0 
+time interval of mmKIJ3 : 0s or chrono sec: 0.012589 s 
+________________
+
+size:16
+add L2 cache
+547 0 
+time interval of mmKIJ4 : 0s or chrono sec: 0.00409151 s 
+________________
+
+size:16
+add L2 cache
+2043 0 
+time interval of mmKIJ5 : 0s or chrono sec: 0.0108899 s 
+________________
+
+size:16
+add L2 cache
+879 0 
+time interval of mmKIJ6 : 0s or chrono sec: 0.00862239 s 
+________________
+
+size:16
+add L2 cache
+1041 0 
+time interval of mmKIJ7 : 0s or chrono sec: 0.0182339 s 
+________________
+
+k:	5
+size:32
+add L2 cache
+20 0 
+time interval of mmIKJ : 0s or chrono sec: 0.00239571 s 
+________________
+
+size:32
+add L2 cache
+497 0 
+time interval of mmIKJ1 : 0s or chrono sec: 0.00383386 s 
+________________
+
+size:32
+add L2 cache
+5836 0 
+time interval of mmIKJ2 : 0s or chrono sec: 0.0073372 s 
+________________
+
+size:32
+add L2 cache
+36965 0 
+time interval of mmIKJ3 : 0s or chrono sec: 0.0568691 s 
+________________
+
+size:32
+add L2 cache
+711 0 
+time interval of mmIKJ4 : 0s or chrono sec: 0.0153089 s 
+________________
+
+size:32
+add L2 cache
+1408 0 
+time interval of mmIKJ5 : 0s or chrono sec: 0.016853 s 
+________________
+
+size:32
+add L2 cache
+9779 0 
+time interval of mmIKJ6 : 0s or chrono sec: 0.0567508 s 
+________________
+
+size:32
+add L2 cache
+1468 0 
+time interval of mmIKJ7 : 0s or chrono sec: 0.035552 s 
+________________
+
+size:32
+add L2 cache
+33 0 
+time interval of mmKIJ : 0s or chrono sec: 0.00199595 s 
+________________
+
+size:32
+add L2 cache
+812 0 
+time interval of mmKIJ1 : 0s or chrono sec: 0.00116034 s 
+________________
+
+size:32
+add L2 cache
+3800 0 
+time interval of mmKIJ2 : 0s or chrono sec: 0.00580388 s 
+________________
+
+size:32
+add L2 cache
+44910 0 
+time interval of mmKIJ3 : 0s or chrono sec: 0.0520648 s 
+________________
+
+size:32
+add L2 cache
+1050 0 
+time interval of mmKIJ4 : 0s or chrono sec: 0.00156939 s 
+________________
+
+size:32
+add L2 cache
+6591 0 
+time interval of mmKIJ5 : 0s or chrono sec: 0.019895 s 
+________________
+
+size:32
+add L2 cache
+1035 0 
+time interval of mmKIJ6 : 0s or chrono sec: 0.00527799 s 
+________________
+
+size:32
+add L2 cache
+1485 0 
+time interval of mmKIJ7 : 0s or chrono sec: 0.00534794 s 
+________________
+
+k:	6
+size:64
+add L2 cache
+46 0 
+time interval of mmIKJ : 0s or chrono sec: 0.0111652 s 
+________________
+
+size:64
+add L2 cache
+476 0 
+time interval of mmIKJ1 : 0s or chrono sec: 0.00194644 s 
+________________
+
+size:64
+add L2 cache
+21925 0 
+time interval of mmIKJ2 : 1s or chrono sec: 0.0234024 s 
+________________
+
+size:64
+add L2 cache
+315835 0 
+time interval of mmIKJ3 : 0s or chrono sec: 0.349763 s 
+________________
+
+size:64
+add L2 cache
+890 0 
+time interval of mmIKJ4 : 0s or chrono sec: 0.00234608 s 
+________________
+
+size:64
+add L2 cache
+4324 0 
+time interval of mmIKJ5 : 0s or chrono sec: 0.0078773 s 
+________________
+
+size:64
+add L2 cache
+28496 0 
+time interval of mmIKJ6 : 0s or chrono sec: 0.0404091 s 
+________________
+
+size:64
+add L2 cache
+3572 0 
+time interval of mmIKJ7 : 0s or chrono sec: 0.00404418 s 
+________________
+
+size:64
+add L2 cache
+101 0 
+time interval of mmKIJ : 0s or chrono sec: 0.00982237 s 
+________________
+
+size:64
+add L2 cache
+806 0 
+time interval of mmKIJ1 : 0s or chrono sec: 0.00233047 s 
+________________
+
+size:64
+add L2 cache
+8399 0 
+time interval of mmKIJ2 : 0s or chrono sec: 0.0161931 s 
+________________
+
+size:64
+add L2 cache
+321394 0 
+time interval of mmKIJ3 : 0s or chrono sec: 0.350425 s 
+________________
+
+size:64
+add L2 cache
+1718 0 
+time interval of mmKIJ4 : 0s or chrono sec: 0.00173375 s 
+________________
+
+size:64
+add L2 cache
+16968 0 
+time interval of mmKIJ5 : 0s or chrono sec: 0.0256574 s 
+________________
+
+size:64
+add L2 cache
+6882 0 
+time interval of mmKIJ6 : 0s or chrono sec: 0.00611073 s 
+________________
+
+size:64
+add L2 cache
+3607 0 
+time interval of mmKIJ7 : 0s or chrono sec: 0.00277633 s 
+________________
+
+k:	7
+size:128
+add L2 cache
+137 0 
+time interval of mmIKJ : 0s or chrono sec: 0.0850105 s 
+________________
+
+size:128
+add L2 cache
+1156 0 
+time interval of mmIKJ1 : 0s or chrono sec: 0.00434591 s 
+________________
+
+size:128
+add L2 cache
+63983 0 
+time interval of mmIKJ2 : 0s or chrono sec: 0.0559795 s 
+________________
+
+size:128
+add L2 cache
+1748254 0 
+time interval of mmIKJ3 : 2s or chrono sec: 1.85426 s 
+________________
+
+size:128
+add L2 cache
+4279 0 
+time interval of mmIKJ4 : 0s or chrono sec: 0.00306506 s 
+________________
+
+size:128
+add L2 cache
+25079 0 
+time interval of mmIKJ5 : 0s or chrono sec: 0.0148139 s 
+________________
+
+size:128
+add L2 cache
+97388 0 
+time interval of mmIKJ6 : 0s or chrono sec: 0.0989687 s 
+________________
+
+size:128
+add L2 cache
+10616 0 
+time interval of mmIKJ7 : 0s or chrono sec: 0.00910271 s 
+________________
+
+size:128
+add L2 cache
+872 0 
+time interval of mmKIJ : 1s or chrono sec: 0.0746192 s 
+________________
+
+size:128
+add L2 cache
+687 0 
+time interval of mmKIJ1 : 0s or chrono sec: 0.00545624 s 
+________________
+
+size:128
+add L2 cache
+19139 0 
+time interval of mmKIJ2 : 0s or chrono sec: 0.0409274 s 
+________________
+
+size:128
+add L2 cache
+1764037 0 
+time interval of mmKIJ3 : 2s or chrono sec: 1.92602 s 
+________________
+
+size:128
+add L2 cache
+3888 0 
+time interval of mmKIJ4 : 0s or chrono sec: 0.00281176 s 
+________________
+
+size:128
+add L2 cache
+53052 0 
+time interval of mmKIJ5 : 0s or chrono sec: 0.0722997 s 
+________________
+
+size:128
+add L2 cache
+36876 0 
+time interval of mmKIJ6 : 0s or chrono sec: 0.0186292 s 
+________________
+
+size:128
+add L2 cache
+11668 0 
+time interval of mmKIJ7 : 0s or chrono sec: 0.00864883 s 
+________________
+
+k:	8
+size:256
+add L2 cache
+1199 0 
+time interval of mmIKJ : 0s or chrono sec: 0.644189 s 
+________________
+
+size:256
+add L2 cache
+1486 0 
+time interval of mmIKJ1 : 0s or chrono sec: 0.0108884 s 
+________________
+
+size:256
+add L2 cache
+186713 0 
+time interval of mmIKJ2 : 1s or chrono sec: 0.217742 s 
+________________
+
+size:256
+add L2 cache
+8682041 0 
+time interval of mmIKJ3 : 10s or chrono sec: 10.7749 s 
+________________
+
+size:256
+add L2 cache
+9719 0 
+time interval of mmIKJ4 : 0s or chrono sec: 0.0111966 s 
+________________
+
+size:256
+add L2 cache
+35674 0 
+time interval of mmIKJ5 : 0s or chrono sec: 0.0541158 s 
+________________
+
+size:256
+add L2 cache
+392591 0 
+time interval of mmIKJ6 : 1s or chrono sec: 0.37226 s 
+________________
+
+size:256
+add L2 cache
+48323 0 
+time interval of mmIKJ7 : 0s or chrono sec: 0.0519532 s 
+________________
+
+size:256
+add L2 cache
+15312 0 
+time interval of mmKIJ : 0s or chrono sec: 0.564849 s 
+________________
+
+size:256
+add L2 cache
+1278 0 
+time interval of mmKIJ1 : 0s or chrono sec: 0.0131141 s 
+________________
+
+size:256
+add L2 cache
+45790 0 
+time interval of mmKIJ2 : 0s or chrono sec: 0.118697 s 
+________________
+
+size:256
+add L2 cache
+8735284 0 
+time interval of mmKIJ3 : 11s or chrono sec: 10.6884 s 
+________________
+
+size:256
+add L2 cache
+12222 0 
+time interval of mmKIJ4 : 0s or chrono sec: 0.0101548 s 
+________________
+
+size:256
+add L2 cache
+232941 0 
+time interval of mmKIJ5 : 0s or chrono sec: 0.222214 s 
+________________
+
+size:256
+add L2 cache
+98102 0 
+time interval of mmKIJ6 : 0s or chrono sec: 0.0598781 s 
+________________
+
+size:256
+add L2 cache
+46166 0 
+time interval of mmKIJ7 : 1s or chrono sec: 0.0514751 s 
+________________
+
+k:	9
+size:512
+add L2 cache
+181233 0 
+time interval of mmIKJ : 5s or chrono sec: 5.19441 s 
+________________
+
+size:512
+add L2 cache
+2016 0 
+time interval of mmIKJ1 : 0s or chrono sec: 0.0728692 s 
+________________
+
+size:512
+add L2 cache
+671033 0 
+time interval of mmIKJ2 : 1s or chrono sec: 0.806251 s 
+________________
+
+size:512
+add L2 cache
+41260202 0 
+time interval of mmIKJ3 : 56s or chrono sec: 56.1508 s 
+________________
+
+size:512
+add L2 cache
+47682 0 
+time interval of mmIKJ4 : 0s or chrono sec: 0.0751362 s 
+________________
+
+size:512
+add L2 cache
+189529 0 
+time interval of mmIKJ5 : 0s or chrono sec: 0.399542 s 
+________________
+
+size:512
+add L2 cache
+1939494 0 
+time interval of mmIKJ6 : 2s or chrono sec: 1.57023 s 
+________________
+
+size:512
+add L2 cache
+253526 0 
+time interval of mmIKJ7 : 0s or chrono sec: 0.388378 s 
+________________
+
+size:512
+add L2 cache
+426867 0 
+time interval of mmKIJ : 5s or chrono sec: 4.58593 s 
+________________
+
+size:512
+add L2 cache
+4405 0 
+time interval of mmKIJ1 : 0s or chrono sec: 0.0712266 s 
+________________
+
+size:512
+add L2 cache
+121387 0 
+time interval of mmKIJ2 : 0s or chrono sec: 0.327906 s 
+________________
+
+size:512
+add L2 cache
+41742820 0 
+time interval of mmKIJ3 : 56s or chrono sec: 55.4554 s 
+________________
+
+size:512
+add L2 cache
+20189 0 
+time interval of mmKIJ4 : 0s or chrono sec: 0.0648935 s 
+________________
+
+size:512
+add L2 cache
+1012611 0 
+time interval of mmKIJ5 : 1s or chrono sec: 0.826954 s 
+________________
+
+size:512
+add L2 cache
+463834 0 
+time interval of mmKIJ6 : 0s or chrono sec: 0.405584 s 
+________________
+
+size:512
+add L2 cache
+470894 0 
+time interval of mmKIJ7 : 0s or chrono sec: 0.383036 s 
+________________
+
+k:	10
+size:1024
+add L2 cache
+1188867 0 
+time interval of mmIKJ : 41s or chrono sec: 41.5972 s 
+________________
+
+size:1024
+add L2 cache
+4967 0 
+time interval of mmIKJ1 : 1s or chrono sec: 0.570869 s 
+________________
+
+size:1024
+add L2 cache
+3358409 0 
+time interval of mmIKJ2 : 3s or chrono sec: 3.3326 s 
+________________
+
+size:1024
+add L2 cache
+190452246 0 
+time interval of mmIKJ3 : 282s or chrono sec: 282.14 s 
+________________
+
+size:1024
+add L2 cache
+137084 0 
+time interval of mmIKJ4 : 1s or chrono sec: 0.576097 s 
+________________
+
+size:1024
+add L2 cache
+1269413 0 
+time interval of mmIKJ5 : 3s or chrono sec: 3.12343 s 
+________________
+
+size:1024
+add L2 cache
+10347577 0 
+time interval of mmIKJ6 : 7s or chrono sec: 7.22551 s 
+________________
+
+size:1024
+add L2 cache
+1497651 0 
+time interval of mmIKJ7 : 3s or chrono sec: 3.06839 s 
+________________
+
+size:1024
+add L2 cache
+2158241 0 
+time interval of mmKIJ : 37s or chrono sec: 36.5825 s 
+________________
+
+size:1024
+add L2 cache
+36952 0 
+time interval of mmKIJ1 : 0s or chrono sec: 0.507871 s 
+________________
+
+size:1024
+add L2 cache
+347865 0 
+time interval of mmKIJ2 : 1s or chrono sec: 1.13044 s 
+________________
+
+size:1024
+add L2 cache
+191529972 0 
+time interval of mmKIJ3 : 280s or chrono sec: 279.135 s 
+________________
+
+size:1024
+add L2 cache
+126010 0 
+time interval of mmKIJ4 : 0s or chrono sec: 0.490228 s 
+________________
+
+size:1024
+add L2 cache
+4159393 0 
+time interval of mmKIJ5 : 4s or chrono sec: 4.17119 s 
+________________
+
+size:1024
+add L2 cache
+2009514 0 
+time interval of mmKIJ6 : 3s or chrono sec: 3.08359 s 
+________________
+
+size:1024
+add L2 cache
+2767638 0 
+time interval of mmKIJ7 : 3s or chrono sec: 3.00579 s 
+________________
+
+end_______

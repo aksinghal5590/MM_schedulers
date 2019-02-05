@@ -1,0 +1,23 @@
+For task1,
+1. run "make -f MakefileTask1" from project directory
+2.execute ./bin/mmprogram [size] [base] [coreNum] [controller1] [controller2]
+
+size :the input matrix size
+base: the recusion base size
+coreNum: the core number with which the program run in parallel, default value is 272 (the total number of core in stampede2)
+controller1: used to select which function to execute, default value is 1
+controller2: used to select which function to execute, default value is 1
+
+
+example:
+./mmprogram 1024 256 
+./mmprogram 1024 256 272
+./mmprogram 1024 256 272 1 1
+./mmprogram 1024 256 272 2 1
+
+ 
+For task2,
+To run C-share scheduler:
+1. run "make" from project directory
+2. execute ./bin/cshare
+ 
